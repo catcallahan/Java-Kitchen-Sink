@@ -33,7 +33,6 @@ for(var i = 0; i < friends.length; i++) {
 }
 
 function getLength(word) {
-    console.log(word.length)
         if (word.length%2 == 0) {
             console.log('The World is nice and even!')
 } else { 
